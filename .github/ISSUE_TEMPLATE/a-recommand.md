@@ -1,18 +1,17 @@
 ---
-name: Recommand
-about: 封面/话题/生信动态/文章/工具/资源推荐
-title: "【推荐】xxx"
+name: To-read
+about: 研究综述/Research article/分析工具/数据资源/其他/
+title: "【To-read】xxx"
 labels: 推荐
 ---
 
 ### 推荐分类
 
-- [ ] 封面
-- [ ] 话题
-- [ ] 生信动态
-- [ ] 文章
-- [ ] 工具
-- [ ] 资源推荐
+- [ ] 研究综述
+- [ ] Research article
+- [ ] 分析工具
+- [ ] 数据资源
+- [ ] 其他
 
 ### 推荐内容
 
